@@ -1,0 +1,58 @@
+Skills:
+- 2018-2020
+- JavaScript
+- EDUCATION
+- SQL
+- ACHIEVEMENTS
+- React
+- Gurugram, Haryana
+- WORK EXPERIENCE
+- Git
+- Graduate Engineer Trainee (Intern)
+- • JavaScript from Udemy
+- PROJECTS
+- HTML
+- users.
+- • Namaste React
+- Pilani, Rajasthan
+- 2020-2024
+- AWS
+- Java
+- Sankalp Haritash
+- CERTIFICATIONS
+- knowledge sharing within the team.
+- Intermediate in Science, CBSE (89.50%)
+- CSS
+- • MonogDB from MongoDB university
+- SUMMARY
+- Birla School
+- TECHNICAL SKILLS
+- April 2024 – Present
+
+
+
+
+skills contails these 
+- 2018-2020
+- EDUCATION
+- ACHIEVEMENTS
+- Gurugram, Haryana
+- WORK EXPERIENCE
+- Graduate Engineer Trainee (Intern)
+- • JavaScript from Udemy
+- PROJECTS
+- users.
+- • Namaste React
+- Pilani, Rajasthan
+- 2020-2024
+- Sankalp Haritash
+- CERTIFICATIONS
+- knowledge sharing within the team.
+- Intermediate in Science, CBSE (89.50%)
+- • MonogDB from MongoDB university
+- SUMMARY
+- Birla School
+- TECHNICAL SKILLS
+- April 2024 – Present
+
+but what I want from PDF is  HTML, CSS (Tailwind CSS), JavaScript, TypeScript, React.Js, Jest, Node.Js, Express, MongoDB, SQL, Git, GitHub, Visual Studio Code, Postman
